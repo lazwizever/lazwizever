@@ -7,7 +7,7 @@
 ![banner](https://user-images.githubusercontent.com/92322004/148931413-2b19bb4f-436f-4816-a3f2-aec2f25b7a71.png)
 
 ## Who am I?
-
+'''java
     public String getWhoAmI(){
 	        return "Lasan Kariyawasam";
     }
@@ -29,6 +29,8 @@
     public String getAmbition(){
             return "Become an Software Engineer";
     }
+    
+   '''
 
 ## Github Stats🔥
 <img src="https://github-readme-stats.vercel.app/api?username=lazwizever&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=lazwizever&theme=blueberry_duo"/>
