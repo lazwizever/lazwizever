@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welome+To+My+Github+Profile;I'm+a+Software+Developer)](https://git.io/typing-svg)
 
-![Github banner]![banner](https://user-images.githubusercontent.com/92322004/148931413-2b19bb4f-436f-4816-a3f2-aec2f25b7a71.png)
+![banner](https://user-images.githubusercontent.com/92322004/148931413-2b19bb4f-436f-4816-a3f2-aec2f25b7a71.png)
 
 ## Who am I?
 
